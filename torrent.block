@@ -1,3 +1,9 @@
+# Torrent block list
+# Firewall torrent block list
+# Pihole torrent block list
+# https://trebjesanin.me
+
+
 0.0.0.0 ThePirateBay.org
 0.0.0.0 galacticcentral.org
 0.0.0.0 The-monkey-house.com
