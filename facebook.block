@@ -1,3 +1,9 @@
+# Block facebook
+# Facebook domain  list
+# Pi hole facebook block list
+# Dns facebook block list
+# https://trebjesanin.me
+
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
