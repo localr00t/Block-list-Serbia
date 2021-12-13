@@ -1,3 +1,10 @@
+# Serbian news portal list
+# Lista srpskih portala
+# firewall
+# Pihole
+# Block list
+# https://trebjesanin.me
+
 0.0.0.0 037ks.com
 0.0.0.0 24online.rs
 0.0.0.0 24sedam.rs
